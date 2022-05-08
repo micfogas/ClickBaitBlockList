@@ -1,0 +1,11 @@
+# My allow list
+googleadservices.com
+punchh.com
+qualtrics.com
+amazon.com
+ionos.com
+graph.facebook.com
+googleapis.com
+ring.com
+rings.solultions
+crashlytics.com
